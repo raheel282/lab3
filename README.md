@@ -26,8 +26,5 @@ From the source root:
 ```bash
 javac -d out lab3/refactored/*.java
 java -cp out ie.ucd.comp41670.lab3.refactored.PayrollTest
-```
+``
 
-## Academic-integrity note
-
-The AI interaction log in this generated package is intentionally labelled as simulated/template content. Replace it with the actual interactions used during your lab.
